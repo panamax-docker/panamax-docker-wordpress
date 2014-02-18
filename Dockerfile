@@ -1,4 +1,4 @@
-FROM panamax/apache-php
+FROM panamax/panamax-docker-apache-php
 MAINTAINER Chaitanya Akkineni <chaitanya.akkineni@savvis.com>
 
 # Install packages
