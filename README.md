@@ -1,2 +1,4 @@
-panamax-docker-wordpress
-========================
+panamax-docker-wordpress-nosql
+============================
+
+Out-of-the-box Wordpress docker image without MySQL 
